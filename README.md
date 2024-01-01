@@ -17,5 +17,4 @@ This project is a breast cancer prediction system that leverages machine learnin
 
 ## Data
 
-The breast cancer dataset used in this project is available at https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset. Please provide proper attribution to the dataset source.
-
+The breast cancer dataset used in this project is available at https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset. 
